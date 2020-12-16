@@ -1,3 +1,3 @@
-- *HTML*
-- **CSS**
-- _JavaScript_ :heart:
+ - *HTML*
+ - **CSS**
+ - ***JavaScript*** :heart:
