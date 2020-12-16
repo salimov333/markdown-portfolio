@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. GitHub.
+2. Markdown.
+3. Programming.
